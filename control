@@ -1,0 +1,9 @@
+Package: com.develician.nosimchanger
+Name: NOSIM_CHANGER
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: develician
+Author: develician
+Section: Tweaks
